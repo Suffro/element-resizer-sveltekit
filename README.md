@@ -1,38 +1,26 @@
-# create-svelte
+# Element Resizer for Svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a simple [Svelte](https://svelte.dev/) component that you can use to make an element resizable horizontally.
 
-## Creating a project
+## Demo this project
+You can demo this project [here](https://Element-Resize-Handler.suffro.repl.co).
 
-If you're seeing this, you've probably already done this step. Congrats!
+### If you want to test it locally, you can follow the following instructions:
 
+#### 1. Clone repository
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+# clone project repo form GitHub
+git clone https://github.com/Suffro/element-resizer-sveltekit
 ```
 
-## Developing
+#### 2. Install dependencies and run the project
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+Once you've cloned the repo of the project you need to install dependencies with `npm install` (or `pnpm install` or `yarn`) and then run the app:
 ```bash
-npm run dev
+npm install
 
-# or start the server and open the app in a new browser tab
+# or open the app in a new browser tab
 npm run dev -- --open
 ```
 
-## Building
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
