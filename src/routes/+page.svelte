@@ -16,7 +16,7 @@
 	<!-- / -->
 
 	<p>
-		Made with &#10084;&#65039; by <a href="https://github.com/Suffro">Lorenzo Suffritti</a>
+		Made with &#10084;&#65039; by <a href="https://github.com/Suffro">Lorenzo</a>
 	</p>
 </div>
 
