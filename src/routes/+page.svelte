@@ -3,8 +3,12 @@
 	import '../app.css';
 </script>
 
+<svelte:head>
+	<title>Svelte Resize handler</title>
+</svelte:head>
+
 <div id="example">
-	<h1>Resizable handler for <a target="_blank" rel="noreferrer" href="https://svelte.dev/">Svelte</a>:</h1>
+	<h1>Element resize handler for <a target="_blank" rel="noreferrer" href="https://svelte.dev/">Svelte</a>:</h1>
 	<!--
     Is important that you give the "resizable" class to the parent,
     NOTE: you can set a custom class using "customBindingClass" prop of resizeHandler.svelte.
