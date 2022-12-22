@@ -9,7 +9,6 @@ You can demo this project [here](https://replit.com/@Suffro/Element-Resize-Handl
 
 #### 1. Clone repository
 ```bash
-# clone project repo form GitHub
 git clone https://github.com/Suffro/element-resizer-sveltekit
 ```
 
