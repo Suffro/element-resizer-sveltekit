@@ -17,8 +17,13 @@ git clone https://github.com/Suffro/element-resizer-sveltekit
 Once you've cloned the repo of the project you need to install dependencies with `npm install` (or `pnpm install` or `yarn`) and then run the app:
 ```bash
 npm install
-
-# or open the app in a new browser tab
+```
+Then:
+```bash
+npm run dev
+```
+Or open the app in a new browser tab:
+```bash
 npm run dev -- --open
 ```
 
