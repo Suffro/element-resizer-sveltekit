@@ -18,7 +18,9 @@
 		<ResizeHandler width={3} bgColor="red"/>
 	</div>
 	<!-- / -->
-
+	<p>
+		See on <a target="_blank" rel="noreferrer" href="https://github.com/Suffro/element-resizer-sveltekit">GitHub</a>
+	</p>
 	<p>
 		Made with &#10084;&#65039; by <a target="_blank" rel="noreferrer" href="https://github.com/Suffro">Lorenzo</a>
 	</p>
