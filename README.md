@@ -3,7 +3,7 @@
 This is a simple [Svelte](https://svelte.dev/) component that you can use to make an element resizable horizontally.
 
 ## Demo this project
-You can demo this project [here](https://Element-Resize-Handler.suffro.repl.co).
+You can demo this project [here](https://replit.com/@Suffro/Element-Resize-Handler?v=1).
 
 ### If you want to test it locally, you can follow the following instructions:
 
