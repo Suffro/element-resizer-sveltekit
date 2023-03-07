@@ -2,6 +2,8 @@
 
 This is a simple [Svelte](https://svelte.dev/) component that you can use to make an element resizable horizontally.
 
+<a href="https://www.buymeacoffee.com/suffro" title="Donate to my contributions using BuyMeACoffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Donate to my contributions using BuyMeACoffee" style="height: 50px !important;width: 181px !important;" ></a>
+
 ## Demo this project
 You can demo this project [here](https://element-resizer-for-svelte.web.app/).
 
